@@ -1,0 +1,55 @@
+.menu{
+    color:black;
+    font-size: 40px;
+    margin: 10px;
+
+}
+
+#title {
+    font-size: 50px;
+}
+
+body {
+    background-image: url("./gambar/construction_worker_concrete_work_labor_task_build_builder-1161600.jpg!d");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+#body-about{ background-image: url("./gambar/Nike-Factory-Tahap-2-1024x576.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;}
+
+#body-referensiproject{ background-image: url("./gambar/acian.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+
+h1{
+    margin-bottom: 0;
+    font-size: 80px;
+
+}
+
+#content {
+    font-size: 20px;
+    font-size-adjust: initial;
+    color: black;
+}
+
+form{
+    background-color:whitesmoke;
+    width: 20%;
+}
+p{
+    font-size: 30px;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.about-us{
+    background-color: whitesmoke
+}
+
+.logo{width: 70px}
